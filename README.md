@@ -1,5 +1,10 @@
 # 💫 About Me:
-Senior QA Analyst with 6.3 years of experience in Web & Mobile Automation.<br>Expertise: Selenium (Java), Appium, TestNG, and Cucumber (BDD) frameworks.<br>Frameworks: Built POM and Data-Driven frameworks from scratch for Sephora/T-Mobile.<br>API & DevOps: Proficient in API Testing (Postman) and CI/CD (Jenkins/GitHub).<br>Domains: Specialized in Telecom, Banking, and E-commerce Agile environments.<br>Focus: Driving quality outcomes through automated testing and SDLC/STLC leadership.
+Senior QA Analyst with 6.3 years of experience in Web & Mobile Automation.
+<br>Expertise: Selenium (Java), Appium, TestNG, and Cucumber (BDD) frameworks.
+<br>Frameworks: Built POM and Data-Driven frameworks from scratch for Sephora/T-Mobile.
+<br>API & DevOps: Proficient in API Testing (Postman) and CI/CD (Jenkins/GitHub).
+<br>Domains: Specialized in Telecom, Banking, and E-commerce Agile environments.
+<br>Focus: Driving quality outcomes through automated testing and SDLC/STLC leadership.
 
 
 
